@@ -1,3 +1,6 @@
+<img width="438" height="163" alt="image" src="https://github.com/user-attachments/assets/6f12e4be-2e07-4ace-9eaf-e1803b6e9a41" />
+
+
 Total $AI Token Supply: 10,000,000,000
 
 Sale Tokens Available: 300,000,000 (3%), plus bonus multiplier tokens (2%)
