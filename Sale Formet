@@ -1,0 +1,26 @@
+How It Works
+Choose the maximum price per token you are willing to pay (within the sale floor of $0.0001 and ceiling of $0.10) and the amount you want to bid.
+Submit your bid to lock your funds.
+(Optional) Increase your maximum price or amount anytime during the sale.
+Note: You cannot reduce or withdraw a bid until allocations are published.
+
+When the sale ends, we determine a single clearing price that applies to all successful bidders. To find it, we consider bids in descending order of price. At each price level, we include all bids with a maximum price at or above that level and check whether the combined USD committed at that price is sufficient to purchase all 300,000,000 tokens at that price. If not, we continue down to the next price level (in fixed increments of $0.0001) until we find the level at which the full token allocation can be filled. That becomes the clearing price for all bidders. All bidders with a maximum price at or above the clearing price are eligible to receive an allocation.
+
+If there is demand for more than 300,000,000 tokens at the clearing price, allocations are determined based on:
+
+Testnet participation
+Community engagement
+Open source ML contributions
+Bid timing
+Lockup participation
+All winning participants pay the same clearing price.
+
+Example 1 (fill)
+You bid $0.08 per token
+The clearing price is $0.05 per token
+You pay $0.05 per token
+Example 2 (no fill)
+You bid $0.03 per token
+The clearing price is $0.05 per token
+Because your maximum price ($0.03) is below the clearing price ($0.05), you do not receive any tokens
+Your full bid amount will be refunded
