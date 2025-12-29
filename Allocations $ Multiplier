@@ -1,0 +1,25 @@
+After the sale closes, allocations are determined using factors to support fair, broad distribution.
+
+
+Allocations
+If total demand at the clearing price exceeds the 300,000,000 tokens available, allocations will be determined using the following criteria:
+
+Testnet Participation: Verified Testnet contributors may receive higher priority. Participation will be tracked from the beginning of the Gensyn Testnet.
+Community Engagement: Participants with verified engagement in Gensyn community channels (Discord, Twitter) may receive higher priority. Connect your accounts to be considered.
+Open Source ML Contributions: Participants with verified open source ML contributions within the last 12 months may receive higher priority. Connect your Hugging Face account to be considered.
+Lockup Selection: Participants who choose the optional 12-month lockup may receive higher priority.
+Bid Timing: Earlier bids during the sale may receive higher priority.
+These factors are used only to help distribute tokens fairly among comparable bids and do not guarantee any specific allocation.
+
+
+Testnet Sale Multiplier
+In addition to priority allocation, verified Testnet users will also receive a bonus token multiplier on their purchase amount. The exact multiplier will be based on each user's participation throughout the Gensyn Testnet, as well as their bid amount in the sale. Higher participation and bid amounts equal a higher multiplier.
+
+For example, if you receive an initial allocation of $1,000 at a $500M FDV clearing price ($0.05 per token), and you have a 3x multiplier, you will receive three times as many tokens as someone purchasing without the multiplier:
+
+Initial allocation: $1,000
+Multiplier: 3.0x
+Value of tokens received: $3,000 (at the same clearing price)
+Your multiplier grants additional tokens on top of your allocation, but it does not change the clearing price you pay. In effect, it provides a discount on your token entry price.
+
+To be eligible, you must have used the Testnet prior to the initial snapshot date (December 5, 2025), and must connect your Testnet wallet(s) to your account during registration.
